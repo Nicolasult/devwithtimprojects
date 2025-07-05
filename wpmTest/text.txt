@@ -1,0 +1,5 @@
+Hello world this is some test text for this app!
+This is another test block of text for this project.
+Subscribe to my channel to see more interesting and challenging videos.
+Okay this is just another block of test to make sure it works properly!
+This is actually getting boring so it is the last line.
