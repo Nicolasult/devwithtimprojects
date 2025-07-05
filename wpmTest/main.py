@@ -15,6 +15,10 @@ def wpm_test(stdscr):
 
     while True:
         key = stdscr.getkey()
+
+        if ord(key) == 27:
+            break
+
         current_text.append(key)
 
         stdscr.clear()
